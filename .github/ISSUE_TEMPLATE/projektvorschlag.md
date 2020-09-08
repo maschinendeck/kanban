@@ -11,7 +11,7 @@ assignees: ''
 *(genaue Beschreibung deines Projektvorschlags)*
 
 ### Tasks
-- [ ] Projekt im Wiki anlegen
-- [ ] Projektleiter festlegen
+[ ] Projekt im Wiki anlegen
+[ ] Projektleiter festlegen
 
-Das Budget wurde auf `0,00€` festgelegt.
+Das Budget wurde auf **`0,00€`** festgelegt.
